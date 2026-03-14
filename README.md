@@ -1,4 +1,4 @@
-# 🍊 Swiggy Sales Analysis
+# 🛵   Swiggy Sales Analysis 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)
